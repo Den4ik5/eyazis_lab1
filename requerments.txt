@@ -1,4 +1,0 @@
-django
-pymorphy2
-requests
-bs4
